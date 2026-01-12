@@ -1,4 +1,6 @@
-[javaSe](./test.md)
+# 文档目录
+
+[JAVASE](./test.md)
 
 
 
@@ -6,7 +8,8 @@
 
 <details>
   <summary>点击这里。 </summary>
-   
+
+
    ### 在这里添加消息
 
    你可以在折叠节中添加文本。 
@@ -14,9 +17,9 @@
    你也可以添加图片或代码块。
 
    ```ruby
-     puts "Hello World"
+  puts "Hello World"
    ```
-  
+
 </details>
 
 
